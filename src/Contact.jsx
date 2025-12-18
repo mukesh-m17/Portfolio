@@ -71,7 +71,7 @@ emailjs.send(
       </form>
       <div className="contact-info">
         <p>
-          ✉️<a href="mailto:mukeshm50087@gmail.com"></a>
+          ✉️<a href="mailto:mukeshm50087@gmail.com">mukeshm50087@gmail.com</a>
         </p>
         <p>
           📞 +91 7810021740
