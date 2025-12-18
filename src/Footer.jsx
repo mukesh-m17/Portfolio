@@ -11,28 +11,28 @@ const Footer = () => {
             target="_blank"
             rel="noopener noreferrer"
           >
-            LinkedIn
+            🔗 LinkedIn
           </a>  
           <a
             href="https://www.instagram.com/mukesxx._x?igsh=MTRlN3RvenVyZ242Ng=="
             target="_blank"
             rel="noopener noreferrer"
           >
-            Instagram
+            📸 Instagram
           </a>
           <a
             href="https://github.com/mukesh-m17"
             target="_blank"
             rel="noopener noreferrer"
           >
-            GitHub
+            🐱 GitHub
           </a>
           <a
             href="mailto:mukeshm50087@gmail.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Gmail
+            ✉️ Gmail
           </a>
         </div>
       </div>

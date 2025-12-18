@@ -69,6 +69,18 @@ emailjs.send(
 
         <button className="submit" type="submit-btn">Send Message 💌</button>
       </form>
+      <div className="contact-info">
+        <p>
+          ✉️<a href="mailto:mukeshm50087@gmail.com"></a>
+        </p>
+        <p>
+          📞 +91 7810021740
+        </p>
+        <p>
+          📍 K.Alankulam ,TamilNadu , India
+        </p>
+
+      </div>
     </section>
   );
 }
