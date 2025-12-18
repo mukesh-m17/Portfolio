@@ -806,12 +806,21 @@ body {
 
   .skill-card {
     width: 90%;
+    gap:20px;
   }
 
   /* Projects */
   .project-card {
     width: 100%;
     padding: 25px 20px;
+    overflow: hidden;
+  }
+  .project-card img {
+    width: 100%;
+    height:auto;
+    max-height: 220px;
+    object-fit: contain;
+    border-radius: 15px;
   }
 
   .project-name {
