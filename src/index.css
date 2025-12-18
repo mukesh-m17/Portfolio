@@ -727,6 +727,9 @@ body {
   /* Container */
   .container {
     gap: 15px;
+    position: sticky;
+    top: 0;
+    z-index: 100;
   }
 
   /* Header */
@@ -762,7 +765,7 @@ body {
 
   #Buttonhome {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     gap: 15px;
     width: 100%;
     margin-top: 25px;
