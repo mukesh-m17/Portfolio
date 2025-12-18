@@ -16,6 +16,7 @@ const Header = () => {
             setMenuOpen(false);
         }}>
             Home</a>
+            
         </nav>
         <button
           className="menu-toggle"
